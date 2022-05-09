@@ -1,0 +1,16 @@
+2022-05-05 18:12:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CRYPTO" no encontrada
+Table "CRYPTO" not found; SQL statement:
+select crypto0_.id as id1_0_, crypto0_.acronym as acronym2_0_, crypto0_.enabled as enabled3_0_, crypto0_.name as name4_0_, crypto0_.value as value5_0_ from crypto crypto0_ where crypto0_.acronym=? [42102-200]
+2022-05-05 18:13:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CRYPTO" no encontrada
+Table "CRYPTO" not found; SQL statement:
+select crypto0_.id as id1_0_, crypto0_.acronym as acronym2_0_, crypto0_.enabled as enabled3_0_, crypto0_.name as name4_0_, crypto0_.value as value5_0_ from crypto crypto0_ where crypto0_.acronym=? [42102-200]
+2022-05-05 18:15:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CRYPTO" no encontrada
+Table "CRYPTO" not found; SQL statement:
+select crypto0_.id as id1_0_, crypto0_.acronym as acronym2_0_, crypto0_.enabled as enabled3_0_, crypto0_.name as name4_0_, crypto0_.value as value5_0_ from crypto crypto0_ where crypto0_.acronym=? [42102-200]
+2022-05-05 18:17:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "crypto" no encontrada
+Table "crypto" not found; SQL statement:
+select crypto0_.id as id1_0_, crypto0_.acronym as acronym2_0_, crypto0_.enabled as enabled3_0_, crypto0_.name as name4_0_, crypto0_.value as value5_0_ from crypto crypto0_ where crypto0_.acronym=? [42102-200]
